@@ -6,7 +6,7 @@ library(stringr)
 library(reshape2)
 ```
 
-## Custome functions:
+## Custom functions:
 ```{r}
 # Function to read and process a JSON file
 process_json <- function(file_path) {
